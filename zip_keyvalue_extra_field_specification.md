@@ -14,8 +14,9 @@ any source or binary code derived from the specification.
 # Introduction
 
 This document specifies a third-party extra field, to be able to encode arbitrary
-key-value pairs of metadata associated with a file within a ZIP. For example
-to store the Content-Type of a file.
+key-value pairs of text metadata associated with a file within a ZIP. For example,
+this could be used to store the Content-Type of a file, along with an attribution
+or source statement.
 
 # Specification
 
